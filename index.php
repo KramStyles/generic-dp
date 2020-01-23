@@ -9,7 +9,7 @@
     <script type="text/javascript" src="js/jquery-ui.min.js"></script>
     <script type="text/javascript" src="js/generic_dp.js"></script>
     <title>
-      Generic DP Demo
+      Generic DP Demo {Development Purposes only}
     </title>
   </head>
   <body>
